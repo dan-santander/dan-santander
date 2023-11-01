@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Daniel Santander
+- 👀 I’m interested in building applications that people actually use!
+- 🌱 I’m currently learning bioresource engineering at McGill
+- 💞️ I’m looking to collaborate on python, django, pandas, machine learning, data visualization, web development, ...
+- 📫 How to reach me email me at daniel.santander@mail.mcgill.ca
